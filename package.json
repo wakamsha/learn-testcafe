@@ -37,6 +37,7 @@
     }
   },
   "scripts": {
-    "getting-started": "yarn workspace @learn-testcafe/getting-started"
+    "step1": "yarn workspace @learn-testcafe/step1",
+    "step2": "yarn workspace @learn-testcafe/step2"
   }
 }
