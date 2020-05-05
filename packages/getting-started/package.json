@@ -1,0 +1,9 @@
+{
+  "name": "@learn-testcafe/getting-started",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "testcafe chrome test1.ts",
+    "test2": "testcafe"
+  }
+}
