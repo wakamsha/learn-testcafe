@@ -9,6 +9,8 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@types/node": "^13.13.5",
+    "@types/yargs": "^15.0.4",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
     "eslint": "^6.8.0",
@@ -39,6 +41,7 @@
   "scripts": {
     "step1": "yarn workspace @learn-testcafe/step1",
     "step2": "yarn workspace @learn-testcafe/step2",
-    "step3": "yarn workspace @learn-testcafe/step3"
+    "step3": "yarn workspace @learn-testcafe/step3",
+    "step4": "yarn workspace @learn-testcafe/step4"
   }
 }

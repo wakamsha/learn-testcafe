@@ -1,9 +1,8 @@
 {
-  "name": "@learn-testcafe/step3",
+  "name": "@learn-testcafe/step4",
   "version": "0.0.0",
   "license": "UNLICENSED",
   "scripts": {
-    "test1": "testcafe chrome fixtures/test1.ts",
     "start": "node ./bin/run.js"
   }
 }
